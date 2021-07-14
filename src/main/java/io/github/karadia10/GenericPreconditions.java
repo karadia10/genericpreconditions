@@ -1,4 +1,4 @@
-package com.karadia10;
+package io.github.karadia10;
 
 import org.apache.commons.lang3.StringUtils;
 

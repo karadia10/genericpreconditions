@@ -8,7 +8,7 @@ import java.util.Objects;
 import java.util.Properties;
 
 /**
- * This class contains utility methods for checking CDM preconditions
+ * This class contains utility methods for preconditions
  */
 public final class GenericPreconditions {
 
